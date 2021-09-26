@@ -16,4 +16,4 @@ To control and oversee PC equipment, programming assets, and Operating framework
 Unix has a graphical UI like the Windows working framework that makes it simple for route and a decent steady climate. The interior plan perspective on this working framework can be known from its engineering. The design of this working framework is four layered. It comprises of Hardware, Kernel, System Call interface(shell) and application libraries/apparatuses, utilities, and so forth… The bit controls the equipment of the PC and dwells at the center of the design. Framework calls goes about as the interface between the piece and different libraries. These libraries incorporate general capacities and based on top of the framework calls. Shell is an uncommon application that gives an interface to different uses of the engineering.
 ## Questions on the based of study material
 #### Q1. How interrupts helps in handling and how does the hardware communicates with the operating systems ?
-#### Q2. What is the purpose of system calls ?
+#### Q2. What is the purpose of system calls? Describe three metrhods to pass parameters to the OS.
